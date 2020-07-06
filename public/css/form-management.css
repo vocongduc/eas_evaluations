@@ -1,0 +1,7 @@
+@media screen and (min-width: 576px){
+    .modal-form-preview-custom {
+        max-width: 90%;
+  }
+  .table th, .table td{
+    vertical-align: middle;
+  }
